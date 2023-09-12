@@ -55,6 +55,7 @@
       "EasyWeChat\\Tests\\": "tests/"
     }
   },
+  "minimum-stability": "dev",
   "extra": {
     "hooks": {
       "pre-commit": [
